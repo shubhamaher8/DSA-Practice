@@ -3,6 +3,10 @@ public class Learning {
         
         // System.out.println("Hello World");
 
+        // int a = 1;
+        // int b = a;
+        // System.out.println(b);
+
     }
 }
 
@@ -25,3 +29,5 @@ public class Learning {
 //         return x;
 //     }
 // }
+
+
