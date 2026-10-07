@@ -1,6 +1,6 @@
 public class Student {
     public static void main(String[] args) {
-        int x = 70;
+        int x = 80;
         //new line
     }
 }
