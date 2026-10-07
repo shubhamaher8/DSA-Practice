@@ -7,7 +7,6 @@ A personal learning repository for practicing **Git and GitHub fundamentals** th
 This repository includes notes and examples for:
 
 - Git and GitHub basics
-- Git installation and configuration
 - Creating and initializing repositories
 - Working directory, staging area, and repository
 - Tracking file changes
@@ -89,10 +88,6 @@ The purpose of this repository is to:
 - Learn how branches and merges work
 - Practice handling conflicts
 - Build confidence using GitHub for projects
-
-## 📈 Progress
-
-This repository will continue to grow as I learn and practice more Git and GitHub concepts.
 
 ---
 
